@@ -368,8 +368,8 @@ a {
 
 .jurusan-content {
     display: grid;
-    grid-template-columns: 40% 60%;
-    gap: 35px;
+    grid-template-columns: 55% 45%;
+    gap: 30px;
     padding: 0 25px 30px;
 }
 
